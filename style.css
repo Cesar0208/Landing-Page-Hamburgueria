@@ -1,0 +1,67 @@
+body {
+    background-color: #FEFEFE;
+}
+.card {
+    transition: transform 0.3s ease;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.377);
+}
+.card:hover{
+    transform: scale(1.05);
+    z-index: 2;
+}
+
+#carouselExampleAutoplaying {
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.712);
+}
+.carousel-item img {
+    object-fit: contain;
+}
+
+.whatsapp-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 90px;
+    z-index: 1050;
+}
+
+.whatsapp-btn img {
+    width: 100%;
+    max-width: 64px;
+    height: auto;
+}
+
+@media (max-width: 576px) {
+.whatsapp-btn {
+  width: 56px;
+  right: 15px;
+  bottom: 15px;
+}
+
+.whatsapp-btn img {
+  max-width: 56px;
+}
+
+.whatsapp-btn span {
+  font-size: 10px;
+}
+}
+
+  .pulse-icon {
+    animation: pulse 1.5s infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
