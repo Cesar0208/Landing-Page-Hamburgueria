@@ -17,8 +17,7 @@ Este projeto é uma **landing page** de uma hamburgueria fictícia, desenvolvida
 
 ## 📸 Preview
 
-![Preview da Landing Page](caminho/para/imagem-preview.png) <!-- Você pode colocar um print da página aqui -->
-<img width="363" height="237" alt="image" src="https://github.com/user-attachments/assets/f9e6de45-564f-47fa-8a9a-c1a0141a39ef" />
+<img width="1905" height="939" alt="image" src="https://github.com/user-attachments/assets/c2e58d9b-0b12-437f-aa61-87c4c4184a41" />
 
 
 ## 📝 Funcionalidades
@@ -30,3 +29,4 @@ Este projeto é uma **landing page** de uma hamburgueria fictícia, desenvolvida
 - Seção de contato com botão para WhatsApp (fictício).
 
 ## 📂 Como Visualizar
+- Acesse o link: https://cesar0208.github.io/Landing-Page-Hamburgueria/
