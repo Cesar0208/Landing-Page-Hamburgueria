@@ -18,6 +18,8 @@ Este projeto é uma **landing page** de uma hamburgueria fictícia, desenvolvida
 ## 📸 Preview
 
 ![Preview da Landing Page](caminho/para/imagem-preview.png) <!-- Você pode colocar um print da página aqui -->
+<img width="363" height="237" alt="image" src="https://github.com/user-attachments/assets/f9e6de45-564f-47fa-8a9a-c1a0141a39ef" />
+
 
 ## 📝 Funcionalidades
 
@@ -25,10 +27,6 @@ Este projeto é uma **landing page** de uma hamburgueria fictícia, desenvolvida
 - Menu de navegação fixo.
 - Seção de destaque (banner hero).
 - Cardápio fictício com cards de produtos.
-- Seção de contato com botão para WhatsApp (ou link fictício).
+- Seção de contato com botão para WhatsApp (fictício).
 
 ## 📂 Como Visualizar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
