@@ -1,4 +1,4 @@
-# Landing Page - Hamburgueria Fictícia 🍔
+# Landing Page - Raposa Burguer 🍔
 
 Este projeto é uma **landing page** de uma hamburgueria fictícia, desenvolvida como um **desafio proposto pelo professor** durante as aulas. O objetivo era criar uma página visualmente agradável, responsiva e utilizando apenas tecnologias básicas de desenvolvimento web.
 
